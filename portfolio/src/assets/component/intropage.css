@@ -1,0 +1,27 @@
+
+img{
+position: relative;
+top: 0;
+}
+#intro{
+position: absolute;
+top: 25%;
+left: 33%;
+text-align: center;
+color: #464545;
+
+}
+
+.ReadM{
+    position: relative;
+    padding: 20px;
+   margin-top: 30px;
+   border-radius: 20px;
+    color:#464545;
+}
+
+.ReadM:hover{
+   background-color:darkgray;
+   color: white;
+
+}

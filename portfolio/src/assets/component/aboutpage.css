@@ -1,0 +1,23 @@
+
+.about-container {
+  position: relative;
+  display: flex;
+  
+}
+
+.about-image {
+  width: 100%; /* Make the image fill the container width */
+  border-radius: 10px;
+}
+
+.about-content {
+  position: absolute;
+  width: 50%; /* Adjust as needed */
+  padding: 30px;
+  margin-left: 30px;
+  text-align: left; /* Align text to the left */
+  z-index: 1;
+  color: #464545;
+  font-size: 140%;
+}
+
